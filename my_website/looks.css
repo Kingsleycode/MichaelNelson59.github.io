@@ -9,6 +9,9 @@ h1
 }
 a:link a:visited
 {
-    display:inline-block;
-    background-color:#162b7a;
+    background-color: #105268;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
