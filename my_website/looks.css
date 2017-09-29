@@ -5,8 +5,9 @@ body
 }
 h1
 {
-    text-align: center
+    text-align: center;
 }
-a:link a:visited{
+a:link a:visited
+{
     display:inline-block;
 }
