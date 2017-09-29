@@ -7,11 +7,20 @@ h1
 {
     text-align: center;
 }
-a:link a:visited
+table
 {
-    background-color: #105268;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+    width:85%;
+    text-align:center;
+}
+td
+{
+    vertical-align:middle;
+}
+tr
+{
+    text-align:center;
+}
+th
+{
+    text-align:center;
 }
